@@ -1,1 +1,31 @@
+[
+  {
+    "id": "0000000000000000",
+    "username": "user1",
+    "password": "0000",
+    "expiresAt": "2025-08-14",
+    "allowOffline": false
+  },
+  {
+    "id": "0000000000000000",
+    "username": "user2",
+    "password": "0000",
+    "expiresAt": "2024-07-14",
+    "allowOffline": false
+  },
+  {
+    "id": "0000000000000000",
+    "username": "user3",
+    "password": "0000",
+    "expiresAt": "2026-12-30",
+    "allowOffline": false
+  },
+  {
+    "id": "095004b8757d9d7a",
+    "username": "Evan",
+    "password": "Evann332",
+    "expiresAt": "2026-08-01",
+    "allowOffline": true
+  }
+]
 
